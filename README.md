@@ -33,6 +33,9 @@ This website is just the layout of a website. It is not responsive and cannot ta
  * [Shutterstock](https://www.shutterstock.com/) for the favicon-shortcut-icon 
  * [Youtube](https://www.youtube.com/) for helping me with the code whenever i got stuck
 
+## MY PROJECT
+[ThriftAndSave](https://maniskatripathy.github.io/ThriftAndSave/)
+
  
 
 
