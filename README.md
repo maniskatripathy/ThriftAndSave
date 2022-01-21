@@ -32,6 +32,7 @@ This website is just the layout of a website. It is not responsive and cannot ta
  * [Unsplash](https://unsplash.com/) for the background image used in my website
  * [Shutterstock](https://www.shutterstock.com/) for the favicon-shortcut-icon 
  * [Youtube](https://www.youtube.com/) for helping me with the code whenever i got stuck
+ * [ReThought](https://rethought.in/collections/western-wear) I have linked their website just to show that my button works
 
 ## MY PROJECT
 [ThriftAndSave](https://maniskatripathy.github.io/ThriftAndSave/)
