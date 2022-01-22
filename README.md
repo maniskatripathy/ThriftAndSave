@@ -8,6 +8,13 @@ This website is just the layout of a website. It is not responsive and cannot ta
  * The idea is to build a website for a small thrift business owner.
  * The Purpose is to let the user know about thrifting, surf products and contact the owner.
 
+### Thrifting and it's uses
+* **Reduce waste** : Shopping at a local thrift store is a simple and easy way to go green! Manufacturing, producing, packaging, and distributing new clothing takes a lot of energy and water. Disposing of unwanted clothing also takes a toll on the environment.
+* **Score high-quality goods at low prices** : There’s nothing quite like the thrill of finding a great bargain, and at thrift stores, amazing deals are around every corner! Save on clothing, home décor, furniture, shoes, accessories, books, games, and so much more for the entire family. It’s a great feeling to know you’re getting more for less by choosing to shop at a thrift store over a traditional retailer.
+* **Support the community**: Unlike big retail chains, many thrift stores exist to serve others, not generate a profit for stockholders. Choosing to shop at a thrift store that’s driven by a mission to help others
+* **Curate a one-of-a-kind wardrobe** : Whether you want to stay on top of the latest trends or express your individuality with unique and vintage clothing, thrift shopping allows you to create a wardrobe that’s completely one-of-a-kind. Thrift shopping is a lot like a treasure hunt: you never know what you might find!
+
+
  ## Tools used
  I used VScode to write my code in two scripting languages
  * HTML5 (Hyper Text Markup Language)
