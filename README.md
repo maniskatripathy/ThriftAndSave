@@ -1,6 +1,6 @@
 # Zairza-Project
 It is a Website I made recently for this induction process. This website is based on an imaginative Thrift store.
-The purpose of this website is to let users surf Products and buy, to know about thrifting and also contact the owner.
+The purpose of this website is to let users surf products, to know about thrifting and also contact the owner.
 This website is just the layout of a website. It is not responsive and cannot take or store data from the user yet.
  
  ## Description
@@ -19,7 +19,7 @@ This website is just the layout of a website. It is not responsive and cannot ta
 
  ## About Me
  I am Maniska Tripathy, I have keen growing interest towards front-end-developing.
- I started learning HTML and CSS recently through online resources, this is my biggest project yet. I strive to learn more and more taken up a few courses. I will keep building more creative websites while adding new features as I start learning them.
+ I started learning HTML and CSS recently through online resources, this is my biggest project yet. I strive to learn more and have taken up a few courses. I will keep building more creative websites while adding new features as I start learning them.
 
  ## Author
  This project is made by Maniska Tripathy. 
